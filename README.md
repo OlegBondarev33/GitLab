@@ -33,7 +33,6 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 ![image](https://github.com/user-attachments/assets/726fc762-0b8f-476c-8c38-b4acd38a23ba)
 ![image](https://github.com/user-attachments/assets/9fc9e907-2f2b-4c57-bd76-259ed4238110)
-![image](https://github.com/user-attachments/assets/db472d94-f146-4049-967f-adb2e7e3f5e0)
 
 
 ### Задание 2
