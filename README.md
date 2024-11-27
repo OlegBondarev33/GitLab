@@ -32,6 +32,8 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 ![image](https://github.com/user-attachments/assets/726fc762-0b8f-476c-8c38-b4acd38a23ba)
+![image](https://github.com/user-attachments/assets/1bf79848-e8d4-4d3e-9247-8db32e6e26e5)
+![image](https://github.com/user-attachments/assets/db472d94-f146-4049-967f-adb2e7e3f5e0)
 
 
 ### Задание 2
